@@ -36,4 +36,4 @@ jobs:
           name: Test
           command: |
             docker compose exec app npm run start:dev
-            docker compose exec app test
+            docker compose exec app npm run test
