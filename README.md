@@ -1,5 +1,6 @@
 # nest_js_gerlessver
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/edinaldorodriguesceara/nest_js_gerlessver/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/edinaldorodriguesceara/nest_js_gerlessver/tree/master)
 
 
 <p align="center">
